@@ -101,3 +101,10 @@ main{
     max-width: 800px;
     margin: auto;
 }
+.blog-image{
+    width: 100%;
+}
+.img-container{
+    max-width: 450px;
+    margin: auto;
+}
