@@ -108,3 +108,7 @@ main{
     max-width: 450px;
     margin: auto;
 }
+.image{
+    max-width: 300px;
+    margin: auto;
+}
